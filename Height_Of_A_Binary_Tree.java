@@ -1,4 +1,9 @@
-
+/*
+ * the height of a binary tree is equal to the largest number of edges from the 
+ * root to the most distant leaf node.
+ * 
+ * i.e in simpler terms number of levels is also the height of a binary tree. 
+ */
 public class Height_Of_A_Binary_Tree 
 {
 	//Classical solution
